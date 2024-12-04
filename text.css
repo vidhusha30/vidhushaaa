@@ -1,0 +1,54 @@
+p{
+    font-family: arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+    .blah-class{
+        font-family:Arial;
+        font-size:18px ;
+        font-weight: bold;
+        width: 300px;
+        line-height: 24px;
+        margin-bottom: 2px;
+    }
+    .views{
+        font-size: 14px;
+        color: #606060;
+        font-family: arial;
+        margin-top: 0;
+        margin-bottom: 16px;
+    }
+    .ss{
+        font-size: 14px;
+        color: #606060;
+        font-family: arial;
+        margin-top: 0;
+        margin-bottom: 16px;
+    }
+    .text{
+        font-size: 14px;
+        color: #606060;
+        font-family: arial;
+        margin-top: 0;
+        margin-bottom: 16px;
+        width: 280px;
+        line-height: 20px;
+        margin-bottom: 70px;
+    }
+    .apple{
+    background-color: #e34140;;
+    border: none;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-left: 8px;
+    margin-right: 8px;
+    }
+    .hi:hover{
+     text-decoration: underline;
+     cursor: pointer;
+    }
